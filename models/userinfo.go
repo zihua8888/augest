@@ -133,3 +133,6 @@ func init(){
 	orm.RegisterModel(new(UserInfo),new(OrderInfo),new(User),new(Article),new(Articletype),new(Hello))
 	orm.RunSyncdb("default",false,true)
 }
+
+
+dev修改绿；；；；；；；；
